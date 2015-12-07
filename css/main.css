@@ -1,6 +1,5 @@
  /*global rules */
 body {
-    /*border: 1px dashed black;*/
     padding: 0px;
     background-color: #fdfdfd;
      -webkit-font-smoothing: antialiased;
@@ -17,7 +16,6 @@ a {
 .container {
     margin-left: auto;
     margin-right: auto;
-    /*background-color: hsla(0,0%,50%,0.06);*/
 }
 
 .main, .footer, .header, .disqus_thread {
@@ -26,17 +24,12 @@ a {
 }
 
 /* disqus_thread */
-
 .disqus_thread {
-    /*padding-left: 20px;*/
     padding-bottom: 80px;
-    /*min-height: 400px;*/
-    /*padding-right: 20px;*/
 }
 
 
 /* Fonts */ 
-
 @font-face {
     font-family: 'Icon';
     src:url('/assets/fonts/icon.?c9l32h');
@@ -91,7 +84,6 @@ a {
 
 /* Header styles */
 .header {
-    /*height: 70px;*/
     padding-top: 60px;
 }
     .header__logo {
@@ -121,25 +113,6 @@ a {
         line-height: 28px;
         color: #5ea7fd;
     }
-/*    .nav > a:link {
-        text-decoration: none;
-        color: #5ea7fd;
-    }
-    .nav > a:hover {
-        text-decoration: none;
-        color: #5ea7fd;
-    } 
-    
-    .nav > a:visited {
-        text-decoration: none;
-        color: #5ea7fd;
-    }
-
-    .nav > a:active {
-        color: #5ea7fd;
-        text-decoration: none;
-    }
-*/
 
 /* Main styles */
 .main {
@@ -185,37 +158,28 @@ a {
 
 .icon--ag {
     font-size: 100px;
-/*    width: 110px;
-    height: 100px;
-*/}
+}
     .icon--ag:before {
         content: "\e900";
     }
 
 .icon--aic {
     font-size: 45px;
-/*    width: 89px;
-    height: 90px;
-*/}
+}
     .icon--aic:before {
         content: "\e901";
     }
 
 .icon--stm {
     font-size: 32px;
-/*    width: 108px;
-    height: 64px;
-*/
 }
     .icon--stm:before {
         content: "\e903";
     }
 
-
 /* Article styles */
 .article {
     padding-top: 43px;
-    /*padding-right: 60px;*/
 }
 .article:after {
     clear: both;
@@ -233,7 +197,6 @@ a {
         display: inline-block;
         margin: 0px;
         padding-bottom: 12px;
-        /*padding-top: 15px;*/
         letter-spacing: -3.47px;
     }
     .article__title:after {
@@ -244,14 +207,12 @@ a {
         color: #888888;
     }
     .article__content {
-        /*font-size: 20px;*/
-        /*padding-right: 71px;*/
         max-width: 774px;
         font-family: PTSerif;
         color: #222222;
-        font-size: 22px; /* Приближение из-за подстановки шрифтов */
+        font-size: 22px;
         font-weight: 400;
-        line-height: 34px; /* Приближение из-за подстановки шрифтов */
+        line-height: 34px;
         text-align: left;
     }
 
@@ -266,7 +227,7 @@ a {
     .content__header {
         font-family: SFUIText;
         color:  #222222;
-        font-size: 32px;/* Приближение из-за подстановки шрифтов */
+        font-size: 32px;
         padding-top: 32px;
         font-weight: 700;
         text-align: left;        
@@ -275,9 +236,9 @@ a {
         font-family: SFUIText;
         position: relative;
         color: #8e9599;
-        font-size: 16px; /* Приближение из-за подстановки шрифтов */
+        font-size: 16px;
         font-weight: 400;
-        line-height: 23px; /* Приближение из-за подстановки шрифтов */
+        line-height: 23px;
     }
 
     .content__quote {
@@ -288,15 +249,6 @@ a {
         border-left: 3px solid black;
         position: relative;
     }
-/*    .content__quote:before {
-        content: "";
-        clear: both;
-    }
-    .content__quote:after {
-        clear: both;
-        content: "";
-    }
-*/
         .quote__img {
             left: 36px;
             position: absolute;
@@ -308,10 +260,9 @@ a {
             padding-right: 140px;
             font-family: PTSerif;
             color: #8e9599;
-            /*max-width: 100%;*/
-            font-size: 18px; /* Приближение из-за подстановки шрифтов */
+            font-size: 18px;
             font-style: italic;
-            line-height: 30px; /* Приближение из-за подстановки шрифтов */
+            line-height: 30px;
             text-align: left;            
         }
         .quote__footer {
@@ -319,9 +270,9 @@ a {
             padding-left: 123px;
             font-family: SFUIText;
             color: #222222;
-            font-size: 16px; /* Приближение из-за подстановки шрифтов */
+            font-size: 16px;
             font-weight: 400;
-            line-height: 23px; /* Приближение из-за подстановки шрифтов */
+            line-height: 23px;
         }
 
 /* Underlined anchor */
@@ -357,13 +308,9 @@ a {
     }
 
 
-
-
-
 /* Preview article styles */
 .preview_article {
     padding-top: 115px;
-    /*padding-bottom: 20px;*/
 }
 .preview_article:after {
     clear: both;
@@ -443,7 +390,6 @@ a {
     }
 
 /* Display specific rules */
-
 @media(min-width: 891px) {
     .container {
         width: 890px;
@@ -482,43 +428,18 @@ a {
 }
 
 @media(min-width: 500px) and (max-width: 890px) {
-    /** {border: 1px dashed yellow;}*/
     .container {
         width: 100%;
-    }
-    .nav {
-        /*padding-top: 75px;*/
     }
 
     /* Article styles */
     .article {
     } 
-        .article__header {
-        }
         .article__title {
             font-size: 30px;
             letter-spacing: -0.8px;
             padding-bottom: 25px;
         }
-        .article__date {
-        }
-        .article__content {
-        }
-
-        .content__img {
-        }
-        .content__header {
-        }
-        .content__img-subtitle {
-        }
-        .content__quote {
-        }
-            .quote__img {
-            }
-            .quote__content {
-            }
-            .quote__footer {
-            }
 
 
     .main, .footer, .header, .nav {
@@ -539,14 +460,6 @@ a {
         line-height: 32px;
         font-size: 23px;
     }
-/*    .content__img {
-        max-width: 100%;
-    }
-*/    .content__quote {
-    }
-        .quote__img {
-        }
-
 
     .preview_article {
         padding-top: 80px;
@@ -560,7 +473,6 @@ a {
 
 
 @media(min-width: 0px) and (max-width: 500px) {
-    /** {border: 1px dashed yellow;}*/
     .container {
         width: 100%;
     }
@@ -589,7 +501,6 @@ a {
         font-size: 16px;
     }
 
-
     /* Article styles */
     .article {
         padding-top: 20px;
@@ -608,13 +519,10 @@ a {
             line-height: 24px;
         }
 
-/*        .content__img {
-            max-width: 300px;
-        }
-*/        .content__header {
-            font-size: 17px;
+    .content__header {
+        font-size: 17px;
 
-        }
+    }
         .content__img-subtitle {
             display: none;
         }
@@ -637,7 +545,6 @@ a {
                 padding-top: 18px;
                 padding-left: 24px;
             }
-
 
     .preview_article {
         padding-top: 23px;
@@ -700,9 +607,7 @@ a {
     }
 }
 
-
 /* Colours */
-
 .black {
     color: black;
 }
