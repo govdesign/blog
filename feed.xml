@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Дизайн государственных систем</title>
+    <description>Дизайн государственных систем</description>
+    <link>http://gov.design/</link>
+    <atom:link href="http://gov.design/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 07 Dec 2015 15:54:39 +0300</pubDate>
+    <lastBuildDate>Mon, 07 Dec 2015 15:54:39 +0300</lastBuildDate>
+    
+      <item>
+        <title>Время пришло.</title>
+        <description>Добро пожаловать в блог, посвященный работе команды профессионалов над всесторонним улучшением цифрового взаимодействия государства и людей.</description>
+        <pubDate>Wed, 25 Nov 2015 22:28:55 +0300</pubDate>
+        <link>http://gov.design/blog/2015/11/25/letstimebegin.html</link>
+        <guid isPermaLink="true">http://gov.design/blog/2015/11/25/letstimebegin.html</guid>
+        
+        <category>about</category>
+        
+        <category>motivation</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Привет, Мир!</title>
+        <description>…</description>
+        <pubDate>Wed, 25 Nov 2015 22:28:00 +0300</pubDate>
+        <link>http://gov.design/blog/2015/11/25/hello_world.html</link>
+        <guid isPermaLink="true">http://gov.design/blog/2015/11/25/hello_world.html</guid>
+        
+        <category>geek</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
