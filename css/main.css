@@ -121,7 +121,6 @@ a {
 
 /* Icon */ 
 .icon {
-    transition: background-image 2s  cubic-bezier(0.23, 1, 0.32, 1);
     background-repeat: no-repeat;
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'Icon' !important;
@@ -132,7 +131,7 @@ a {
     text-transform: none;
     text-decoration: none;
     color: #222222;
-    transition: color 1s ease-in;
+    transition: color 0.2s ease-in;
     line-height: 1;
 
     /* Better Font Rendering =========== */
@@ -219,7 +218,7 @@ a {
     .content__img {
         margin-left: auto;
         margin-right: auto;
-        width: auto;
+        width: 100%;
         padding-top: 15px;
         max-width: 100%;
     }
@@ -282,8 +281,8 @@ a {
     color: inherit;
     padding-bottom: 1px;
     border-bottom: 1px solid transparent;
-    transition: border-color 2s cubic-bezier(0.23, 1, 0.32, 1),
-                color 2.5s cubic-bezier(0.23, 1, 0.32, 1);
+    transition: border-color 0.5s cubic-bezier(0.23, 1, 0.32, 1),
+                color 0.75s cubic-bezier(0.23, 1, 0.32, 1);
 
 }
     .underlined_link:visited {

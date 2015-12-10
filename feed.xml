@@ -5,8 +5,28 @@
     <description>Дизайн государственных систем</description>
     <link>http://gov.design/</link>
     <atom:link href="http://gov.design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Dec 2015 12:08:42 +0300</pubDate>
-    <lastBuildDate>Wed, 09 Dec 2015 12:08:42 +0300</lastBuildDate>
+    <pubDate>Thu, 10 Dec 2015 23:17:54 +0300</pubDate>
+    <lastBuildDate>Thu, 10 Dec 2015 23:17:54 +0300</lastBuildDate>
+    
+      <item>
+        <title>Карты России и мира.</title>
+        <description>Карты России и мира часто используются на интернет-ресурсах как элемент навигации, визуализации инфографики, а так же в качестве иллюстраций.</description>
+        <pubDate>Fri, 11 Dec 2015 13:10:35 +0300</pubDate>
+        <link>http://gov.design/blog/2015/12/11/map.html</link>
+        <guid isPermaLink="true">http://gov.design/blog/2015/12/11/map.html</guid>
+        
+        <category>map</category>
+        
+        <category>elements</category>
+        
+        <category>svg</category>
+        
+        <category>open</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Время пришло.</title>
