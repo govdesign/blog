@@ -1,0 +1,72 @@
+/*
+.block_janus {
+
+}
+    .block_janus--normal {
+        transition: opacity 10s linear;
+        opacity: 1;
+        display: block;
+    }
+    .block_janus--hover {
+        opacity: 0;
+        display: none;
+    }
+    .block_janus:hover .block_janus--normal  {
+        opacity: 0;
+        display: none;
+    }
+
+    .block_janus:hover .block_janus--hover {
+        opacity: 1;
+        display: block;
+    }
+*/
+
+@keyframes Janus {
+    0% {
+        opacity:1;
+    }
+    45% {
+        opacity:1;
+    }
+    55% {
+        opacity:0;
+    }
+    100% {
+        opacity:0;
+    }
+}
+
+
+.block_janus {
+    position: relative;
+    height: auto;
+    min-height: 350px;
+    width: auto;
+    margin: 0 auto;
+}
+    .block_janus--element {
+        position: absolute;
+        left: 0;
+        -webkit-transition: opacity 2s ease-in-out;
+        -moz-transition: opacity 2s ease-in-out;
+        -o-transition: opacity 2s ease-in-out;
+        transition: opacity 2s ease-in-out;        
+    }
+    .block_janus--element-first:hover {
+        opacity: 0;
+    }
+    .block_janus--element-first {
+        animation-name: Janus;
+        animation-timing-function: ease-in-out;
+        animation-iteration-count: infinite;
+        animation-duration: 5s;
+        animation-direction: alternate;
+    }
+
+
+@media(min-width: 500px) and (max-width: 890px) {
+    .block_janus {
+        min-height: 370px;
+    }     
+}

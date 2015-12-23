@@ -37,7 +37,9 @@
                 + '&forum=' + disqusShortname
                 + '&callback=__DISQUS_JSON'
                 + '&api_key=' + disqusPublicKey;
-            url = url + '&' + this.collect_posts().map(function(item) {return 'thread=ident:' + item}).join('&')
+            url = url + '&' + this.collect_posts().map(function(item) {
+                return 'thread=ident:' + item
+            }).join('&')
             return url;
         };
 

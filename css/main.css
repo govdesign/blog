@@ -42,6 +42,12 @@ a {
 }
 
 @font-face {
+  font-family: Monaco;
+  font-style: normal;
+  src: url("/assets/fonts/monaco.ttf");
+}
+
+@font-face {
   font-family: SFUIText;
   font-style: normal;
   font-weight: 400;
@@ -388,6 +394,26 @@ a {
         padding-top: 69px;
     }
 
+.highlight  {
+     background-color: #1A191A;
+     padding-left: 10px;
+     padding-right: 10px;
+     width: auto;
+     overflow: auto;
+     margin-bottom: 20px;
+     margin-top: 46px;
+}
+    .hightlight > pre {
+        white-space: normal;
+    }
+
+    .language-html {
+         color: #CCCCCC;
+         font-family: Monaco;
+         font-size: 14px;
+         line-height: 19px;
+    }
+
 /* Display specific rules */
 @media(min-width: 891px) {
     .container {
@@ -418,6 +444,9 @@ a {
         padding-top: 91px;
 
     }
+        .article__title {
+            line-height: 54px;
+        }
         .content__header {
             letter-spacing: -1.6px;
         }

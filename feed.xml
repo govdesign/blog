@@ -5,11 +5,29 @@
     <description>Дизайн государственных систем</description>
     <link>http://gov.design/</link>
     <atom:link href="http://gov.design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Dec 2015 23:17:54 +0300</pubDate>
-    <lastBuildDate>Thu, 10 Dec 2015 23:17:54 +0300</lastBuildDate>
+    <pubDate>Wed, 23 Dec 2015 04:16:36 +0300</pubDate>
+    <lastBuildDate>Wed, 23 Dec 2015 04:16:36 +0300</lastBuildDate>
     
       <item>
-        <title>Карты России и мира.</title>
+        <title>Изображения: фотографии персон</title>
+        <description>Фотографии персон — обязательный атрибут сайта государственного ведомства. Единый формата даст возможность использовать фотографии на других сайтах, упростит миграцию на новую версию сайта.</description>
+        <pubDate>Wed, 23 Dec 2015 13:10:35 +0300</pubDate>
+        <link>http://gov.design/blog/2015/12/23/userpic.html</link>
+        <guid isPermaLink="true">http://gov.design/blog/2015/12/23/userpic.html</guid>
+        
+        <category>elements</category>
+        
+        <category>photo</category>
+        
+        <category>image</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Карты России и мира</title>
         <description>Карты России и мира часто используются на интернет-ресурсах как элемент навигации, визуализации инфографики, а так же в качестве иллюстраций.</description>
         <pubDate>Fri, 11 Dec 2015 13:10:35 +0300</pubDate>
         <link>http://gov.design/blog/2015/12/11/map.html</link>
@@ -29,7 +47,7 @@
       </item>
     
       <item>
-        <title>Время пришло.</title>
+        <title>Время пришло</title>
         <description>Добро пожаловать в блог, посвященный работе команды профессионалов над всесторонним улучшением цифрового взаимодействия государства и людей.</description>
         <pubDate>Tue, 08 Dec 2015 13:10:35 +0300</pubDate>
         <link>http://gov.design/blog/2015/12/08/letstimebegin.html</link>
