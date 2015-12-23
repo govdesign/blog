@@ -70,3 +70,8 @@
         min-height: 370px;
     }     
 }
+
+
+li {
+    margin-bottom: 12px;
+}
