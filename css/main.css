@@ -306,7 +306,7 @@ a {
     }
 
     .underlined_link--highlighted:visited, .underlined_link--not_visited_link:visited{
-        color: inherit;
+        color: #767676;
     }
 
     .underlined_link--highlighted {
