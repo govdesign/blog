@@ -240,7 +240,7 @@ a {
     .content__img-subtitle {
         font-family: SFUIText;
         position: relative;
-        color: #8e9599;
+        color: #888888;
         font-size: 16px;
         font-weight: 400;
         line-height: 23px;
@@ -264,7 +264,7 @@ a {
             position: relative;
             padding-right: 140px;
             font-family: PTSerif;
-            color: #8e9599;
+            color: #888888;
             font-size: 18px;
             font-style: italic;
             line-height: 30px;
@@ -272,6 +272,7 @@ a {
         }
         .quote__without_footer {
             left: 20px;
+            padding-right: 40px;
         }
         .quote__footer {
             padding-top: 22px;
@@ -295,8 +296,13 @@ a {
 
 }
     .underlined_link:visited {
-        color: #888888;
-        border-color: #ABAFB8;
+        color: #767676;
+        border-color: #949494;
+    }
+
+    .underlined_link:active {
+        color: #000000;
+        border-color: #000000;
     }
 
     .underlined_link--highlighted:visited, .underlined_link--not_visited_link:visited{
@@ -306,13 +312,13 @@ a {
     .underlined_link--highlighted {
         color: inherit;
         border-bottom-width: 1px;
-        border-color: #ABAFB8;
+        border-color: #949494;
     }
 
     .underlined_link:hover, .hover_area:hover .underlined_link {
-        color: #0A3FB4;
+        color: #222222;
         border-bottom-width: 1px;
-        border-color: #0A3FB4;
+        border-color: #000000;
     }
 
 
@@ -555,7 +561,8 @@ a {
 
     }
         .content__img-subtitle {
-            display: none;
+              font-size: 14px;
+              line-height: 20px;
         }
         .content__quote {
         }
