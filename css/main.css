@@ -270,6 +270,9 @@ a {
             line-height: 30px;
             text-align: left;            
         }
+        .quote__without_footer {
+            left: 20px;
+        }
         .quote__footer {
             padding-top: 22px;
             padding-left: 123px;

@@ -5,8 +5,42 @@
     <description>Дизайн государственных систем</description>
     <link>http://gov.design/</link>
     <atom:link href="http://gov.design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Jan 2016 22:13:28 +0300</pubDate>
-    <lastBuildDate>Sun, 03 Jan 2016 22:13:28 +0300</lastBuildDate>
+    <pubDate>Tue, 19 Jan 2016 23:03:01 +0300</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2016 23:03:01 +0300</lastBuildDate>
+    
+      <item>
+        <title>Ссылки в тексте</title>
+        <description>Способы визуализации ссылок на сайте всегда зависят от контекста использования. Мы рассматриваем только ссылки в тексте, а значит, исключение составляют любые интерфейсные элементы. .</description>
+        <pubDate>Wed, 20 Jan 2016 13:10:35 +0300</pubDate>
+        <link>http://gov.design/blog/2016/01/20/underline.html</link>
+        <guid isPermaLink="true">http://gov.design/blog/2016/01/20/underline.html</guid>
+        
+        <category>text</category>
+        
+        <category>underline</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Открытость или страна должна знать героев.</title>
+        <description>Фотографии персон — обязательный атрибут сайта государственного ведомства. Единый формата даст возможность использовать фотографии на других сайтах, упростит миграцию на новую версию сайта.</description>
+        <pubDate>Wed, 20 Jan 2016 13:10:35 +0300</pubDate>
+        <link>http://gov.design/blog/2016/01/20/beopen.html</link>
+        <guid isPermaLink="true">http://gov.design/blog/2016/01/20/beopen.html</guid>
+        
+        <category>elements</category>
+        
+        <category>photo</category>
+        
+        <category>image</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Изображения: фотографии персон</title>
