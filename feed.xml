@@ -5,8 +5,26 @@
     <description>Дизайн государственных систем</description>
     <link>http://gov.design/</link>
     <atom:link href="http://gov.design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Jan 2016 23:53:23 +0300</pubDate>
-    <lastBuildDate>Thu, 21 Jan 2016 23:53:23 +0300</lastBuildDate>
+    <pubDate>Fri, 22 Jan 2016 13:39:33 +0300</pubDate>
+    <lastBuildDate>Fri, 22 Jan 2016 13:39:33 +0300</lastBuildDate>
+    
+      <item>
+        <title>Открытость для всех</title>
+        <description>Мы призываем начать делиться своими наработками и перейти к совместной работе над базовыми компонентами, которые можно будет повторно использовать на разных уровнях.</description>
+        <pubDate>Fri, 22 Jan 2016 13:10:35 +0300</pubDate>
+        <link>http://gov.design/blog/2016/01/22/beopen.html</link>
+        <guid isPermaLink="true">http://gov.design/blog/2016/01/22/beopen.html</guid>
+        
+        <category>managment</category>
+        
+        <category>code</category>
+        
+        <category>geek</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Ссылки в тексте</title>
