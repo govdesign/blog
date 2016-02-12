@@ -183,27 +183,36 @@ a {
     }
 
 
-    a[href^="//"].underlined_link,
-    a[href^="http://"].underlined_link,
-    a[href^="https://"].underlined_link {
+a[href^="//"].underlined_link,
+a[href^="http://"].underlined_link,
+a[href^="https://"].underlined_link {
     margin-right: 20px;
     padding-right: 10px;
 }
 
 
-    a[href^="//"].underlined_link:after,
-    a[href^="http://"].underlined_link:after,
-    a[href^="https://"].underlined_link:after {
+a[href^="//"].underlined_link:after,
+a[href^="http://"].underlined_link:after,
+a[href^="https://"].underlined_link:after {
     font-family: 'Icon' !important;
     content: "\e904";
     font-size: 10px;
     position: relative;
     bottom: 5px;
     display: inline-block;
-    margin: -10px -10px 0 -10px;
     left: 16px;
-    /* margin-right: -10px; */
+    color: #949494;
+    margin: -10px -10px 0 -10px;
+    transition: color 0.75s cubic-bezier(0.23, 1, 0.32, 1);
 }
+
+a[href^="//"].underlined_link:hover:after,
+a[href^="http://"].underlined_link:hover:after,
+a[href^="https://"].underlined_link:hover:after {
+    color: #000000;
+}
+    
+
 
 /* Article styles */
 .article {
