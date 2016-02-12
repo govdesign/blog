@@ -5,8 +5,24 @@
     <description>Дизайн государственных систем</description>
     <link>http://gov.design/</link>
     <atom:link href="http://gov.design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Feb 2016 17:28:20 +0300</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2016 17:28:20 +0300</lastBuildDate>
+    <pubDate>Thu, 11 Feb 2016 18:32:44 +0300</pubDate>
+    <lastBuildDate>Thu, 11 Feb 2016 18:32:44 +0300</lastBuildDate>
+    
+      <item>
+        <title>Заголовк</title>
+        <description>Кто мы?</description>
+        <pubDate>Fri, 12 Feb 2016 13:10:35 +0300</pubDate>
+        <link>http://gov.design/blog/2016/02/12/weare.html</link>
+        <guid isPermaLink="true">http://gov.design/blog/2016/02/12/weare.html</guid>
+        
+        <category>about</category>
+        
+        <category>motivation</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Открытость для всех</title>
