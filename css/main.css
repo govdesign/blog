@@ -213,6 +213,10 @@ a[href^="https://"].underlined_link:hover:after {
 }
     
 
+.embed__vimeo {
+    width: 100%;
+    height: 440px;
+}
 
 /* Article styles */
 .article {
@@ -501,6 +505,10 @@ a[href^="https://"].underlined_link:hover:after {
         width: 100%;
     }
 
+    .embed__vimeo {
+        height: 400px;
+    }
+
     /* Article styles */
     .article {
     } 
@@ -545,6 +553,11 @@ a[href^="https://"].underlined_link:hover:after {
     .container {
         width: 100%;
     }
+
+    .embed__vimeo {
+        height: 240px;
+    }
+
 
     .main, .footer, .header, .nav {
         padding-left: 21px;
