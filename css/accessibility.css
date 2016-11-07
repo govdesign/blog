@@ -1,0 +1,12 @@
+.article__date, .article__title {
+	color: transparent;
+	text-shadow: 0 0 14px rgba(0,0,0,0.3);
+	transition: text-shadow 0.5s cubic-bezier(0.23, 1, 0.32, 1), 
+				color 0.75s cubic-bezier(0.23, 1, 0.32, 1);	
+}
+
+.article__date:hover, .article__title:hover {
+    color: #222;
+    text-shadow: none;
+}
+
