@@ -3,17 +3,17 @@
   <channel>
     <title>Дизайн государственных систем</title>
     <description>Дизайн государственных систем</description>
-    <link>http://gov.design/</link>
-    <atom:link href="http://gov.design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Nov 2016 12:39:02 +0300</pubDate>
-    <lastBuildDate>Tue, 08 Nov 2016 12:39:02 +0300</lastBuildDate>
+    <link>http://blog.gov.design/</link>
+    <atom:link href="http://blog.gov.design/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 18 Apr 2017 20:19:57 +0300</pubDate>
+    <lastBuildDate>Tue, 18 Apr 2017 20:19:57 +0300</lastBuildDate>
     
       <item>
         <title>Государственный сайт, доступный для людей с ограниченными возможностями</title>
         <description>Практические рекомендации по применению стандартов, описание инструментария и процесс проверки сайта на доступность, ссылки на ключевые статьи и руководства по доступности сайтов, а также примеры реализации наиболее распространённых решений.</description>
         <pubDate>Tue, 08 Nov 2016 13:10:35 +0300</pubDate>
-        <link>http://gov.design/blog/2016/11/08/accessibility.html</link>
-        <guid isPermaLink="true">http://gov.design/blog/2016/11/08/accessibility.html</guid>
+        <link>http://blog.gov.design/blog/2016/11/08/accessibility.html</link>
+        <guid isPermaLink="true">http://blog.gov.design/blog/2016/11/08/accessibility.html</guid>
         
         <category>accessibility</category>
         
@@ -32,8 +32,8 @@
         <title>Открытая государственная лицензия</title>
         <description>В Российской Федерации пока не создана своя открытая государственная лицензия, а многие государственные сайты действуют в соответствии с условиями Creative Commons.</description>
         <pubDate>Thu, 16 Jun 2016 13:10:35 +0300</pubDate>
-        <link>http://gov.design/blog/2016/06/16/license.html</link>
-        <guid isPermaLink="true">http://gov.design/blog/2016/06/16/license.html</guid>
+        <link>http://blog.gov.design/blog/2016/06/16/license.html</link>
+        <guid isPermaLink="true">http://blog.gov.design/blog/2016/06/16/license.html</guid>
         
         <category>motivation</category>
         
@@ -50,8 +50,8 @@
         <title>Интерфейс государства</title>
         <description>Сценарии взаимодействия с пользователями</description>
         <pubDate>Mon, 04 Apr 2016 13:10:35 +0300</pubDate>
-        <link>http://gov.design/blog/2016/04/04/interface.html</link>
-        <guid isPermaLink="true">http://gov.design/blog/2016/04/04/interface.html</guid>
+        <link>http://blog.gov.design/blog/2016/04/04/interface.html</link>
+        <guid isPermaLink="true">http://blog.gov.design/blog/2016/04/04/interface.html</guid>
         
         <category>motivation</category>
         
@@ -68,8 +68,8 @@
         <title>О нас</title>
         <description>Кто мы и как нам работать вместе. Способы взаимодействия для профессионалов по сути и энтузиастов по духу</description>
         <pubDate>Fri, 12 Feb 2016 13:10:35 +0300</pubDate>
-        <link>http://gov.design/blog/2016/02/12/weare.html</link>
-        <guid isPermaLink="true">http://gov.design/blog/2016/02/12/weare.html</guid>
+        <link>http://blog.gov.design/blog/2016/02/12/weare.html</link>
+        <guid isPermaLink="true">http://blog.gov.design/blog/2016/02/12/weare.html</guid>
         
         <category>about</category>
         
@@ -84,8 +84,8 @@
         <title>Открытость для всех</title>
         <description>Мы призываем начать делиться своими наработками и перейти к совместной работе над базовыми компонентами, которые можно будет повторно использовать на разных уровнях.</description>
         <pubDate>Fri, 22 Jan 2016 13:10:35 +0300</pubDate>
-        <link>http://gov.design/blog/2016/01/22/beopen.html</link>
-        <guid isPermaLink="true">http://gov.design/blog/2016/01/22/beopen.html</guid>
+        <link>http://blog.gov.design/blog/2016/01/22/beopen.html</link>
+        <guid isPermaLink="true">http://blog.gov.design/blog/2016/01/22/beopen.html</guid>
         
         <category>managment</category>
         
@@ -102,8 +102,8 @@
         <title>Ссылки в тексте</title>
         <description>Способы визуализации ссылок на сайте всегда зависят от контекста использования. Мы рассматриваем только ссылки в тексте, а значит, исключение составляют любые интерфейсные элементы.</description>
         <pubDate>Thu, 21 Jan 2016 13:10:35 +0300</pubDate>
-        <link>http://gov.design/blog/2016/01/21/underline.html</link>
-        <guid isPermaLink="true">http://gov.design/blog/2016/01/21/underline.html</guid>
+        <link>http://blog.gov.design/blog/2016/01/21/underline.html</link>
+        <guid isPermaLink="true">http://blog.gov.design/blog/2016/01/21/underline.html</guid>
         
         <category>text</category>
         
@@ -118,8 +118,8 @@
         <title>Изображения: фотографии персон</title>
         <description>Фотографии персон — обязательный атрибут сайта государственного ведомства. Единый формата даст возможность использовать фотографии на других сайтах, упростит миграцию на новую версию сайта.</description>
         <pubDate>Wed, 23 Dec 2015 13:10:35 +0300</pubDate>
-        <link>http://gov.design/blog/2015/12/23/userpic.html</link>
-        <guid isPermaLink="true">http://gov.design/blog/2015/12/23/userpic.html</guid>
+        <link>http://blog.gov.design/blog/2015/12/23/userpic.html</link>
+        <guid isPermaLink="true">http://blog.gov.design/blog/2015/12/23/userpic.html</guid>
         
         <category>elements</category>
         
@@ -136,8 +136,8 @@
         <title>Карты России и мира</title>
         <description>Карты России и мира часто используются на интернет-ресурсах как элемент навигации, визуализации инфографики, а так же в качестве иллюстраций.</description>
         <pubDate>Fri, 11 Dec 2015 13:10:35 +0300</pubDate>
-        <link>http://gov.design/blog/2015/12/11/map.html</link>
-        <guid isPermaLink="true">http://gov.design/blog/2015/12/11/map.html</guid>
+        <link>http://blog.gov.design/blog/2015/12/11/map.html</link>
+        <guid isPermaLink="true">http://blog.gov.design/blog/2015/12/11/map.html</guid>
         
         <category>map</category>
         
@@ -156,8 +156,8 @@
         <title>Время пришло</title>
         <description>Добро пожаловать в блог, посвященный работе команды профессионалов над всесторонним улучшением цифрового взаимодействия государства и людей.</description>
         <pubDate>Tue, 08 Dec 2015 13:10:35 +0300</pubDate>
-        <link>http://gov.design/blog/2015/12/08/letstimebegin.html</link>
-        <guid isPermaLink="true">http://gov.design/blog/2015/12/08/letstimebegin.html</guid>
+        <link>http://blog.gov.design/blog/2015/12/08/letstimebegin.html</link>
+        <guid isPermaLink="true">http://blog.gov.design/blog/2015/12/08/letstimebegin.html</guid>
         
         <category>about</category>
         
@@ -172,8 +172,8 @@
         <title>Привет, Мир!</title>
         <description>…</description>
         <pubDate>Wed, 25 Nov 2015 22:28:00 +0300</pubDate>
-        <link>http://gov.design/blog/2015/11/25/hello_world.html</link>
-        <guid isPermaLink="true">http://gov.design/blog/2015/11/25/hello_world.html</guid>
+        <link>http://blog.gov.design/blog/2015/11/25/hello_world.html</link>
+        <guid isPermaLink="true">http://blog.gov.design/blog/2015/11/25/hello_world.html</guid>
         
         <category>geek</category>
         
